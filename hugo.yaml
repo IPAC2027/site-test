@@ -70,7 +70,7 @@ languages:
             themes:
                 event:
                     slogan: Not a real conference - this is just a demo!
-                    location: Detroit, U.S.A.
+                    location: Detroit, United States
                     description: |
                         This is a demo website to showcase the features of the __Event__ theme
                         for the static website generator [Hugo](https://gohugo.io). You can
@@ -117,7 +117,7 @@ params:
             address:
                 - Detroit
                 - Michigan
-                - U.S.A.
+                - US
             map:
                 embeddableMapUrl: //umap.openstreetmap.fr/en/map/medialesson-gmbh_1105977?scrollWheelZoom=false
                 viewLargerMapUrl: //umap.openstreetmap.fr/en/map/medialesson-gmbh_1105977
