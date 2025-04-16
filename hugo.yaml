@@ -5,7 +5,7 @@ languages:
   en:
     disabled: false
     menus:
-      footer:
+#     footer:
 #     - identifier: imprint
 #       pageRef: /imprint
 #       weight: 10
