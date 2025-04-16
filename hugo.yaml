@@ -1,157 +1,157 @@
 theme: event
-
 defaultContentLanguage: en
 languages:
-    _merge: deep
-    en:
-        disabled: false
-        menus:
-            main:
-                - identifier: about
-                  pageRef: /about
-                  weight: 10
-                - identifier: sessions
-                  pageRef: /sessions
-                  weight: 20
-                - identifier: speakers
-                  pageRef: /speakers
-                  weight: 30
-                - identifier: location
-                  pageRef: /location
-                  weight: 40
-                - identifier: sponsors
-                  pageRef: /sponsors
-                  weight: 50
-                - identifier: code_of_conduct
-                  pageRef: /code-of-conduct
-                  weight: 60
-            footer:
-                - identifier: imprint
-                  pageRef: /imprint
-                  weight: 10
-                - identifier: privacy
-                  pageRef: /privacy-policy
-                  weight: 20
-            secondary:
-                - identifier: about
-                  pageRef: /about
-                  weight: 10
-                  params:
-                      description: |
-                          Learn more about our mission, values, and the people behind our organization.
-                          The "About Us" page provides insights into who we are, what we do,
-                          and why we’re passionate about our work.
-                - identifier: speakers
-                  pageRef: /speakers
-                  weight: 30
-                  params:
-                      description: |
-                          Meet our distinguished speakers who will be sharing their expertise.
-                          Learn more about their backgrounds and what they will discuss.
-                - identifier: location
-                  pageRef: /location
-                  weight: 40
-                  params:
-                      description: |
-                          Find out where the event will take place.
-                          This section provides details on the venue, directions, and nearby accommodations.
-                - identifier: code_of_conduct
-                  pageRef: /code-of-conduct
-                  weight: 60
-                  params:
-                      description: |
-                          Read about the code of conduct for our event.
-                          This section outlines the expectations for participant behavior and event policies.
+  _merge: deep
+  en:
+    disabled: false
+    menus:
+      footer:
+#     - identifier: imprint
+#       pageRef: /imprint
+#       weight: 10
+#     - identifier: privacy
+#       pageRef: /privacy-policy
+#       weight: 20
+      main:
+      - identifier: about
+        pageRef: /about
+        weight: 10
+      - identifier: sessions
+        pageRef: /sessions
+        weight: 20
+      - identifier: speakers
+        pageRef: /speakers
+        weight: 30
+      - identifier: location
+        pageRef: /location
+        weight: 40
+      - identifier: sponsors
+        pageRef: /sponsors
+        weight: 50
+      - identifier: code_of_conduct
+        pageRef: /code-of-conduct
+        weight: 60
+      secondary:
+      - identifier: about
+        pageRef: /about
         params:
-            # Open Graph / X (Twitter) Cards
-            description: |
-                A demo website to showcase the features of the "Event" theme for the
-                static website generator HUGO.
-            themes:
-                event:
-                    slogan: Not a real conference - this is just a demo!
-                    location: Detroit, United States
-                    description: |
-                        This is a demo website to showcase the features of the __Event__ theme
-                        for the static website generator [Hugo](https://gohugo.io). You can
-                        find the source code of this website on
-                        [GitHub](https://github.com/medialesson/hugo-theme-event-demo). The theme
-                        can fetch data of any event from [Sessionize](https://sessionize.com) and
-                        automatically generates a schedule, a speaker list, and more. It also 
-                        integrates well with [Eventbrite](https://www.eventbrite.com) to sell tickets.
-                    directions: |
-                        #### By Public Transportation
-                        Take the number 25 bus from downtown. [Click here for the bus
-                        schedule](https://www.kvv.de/en/plan-trip/timetables.html).
+          description: |
+            Learn more about our mission, values, and the people behind our organization.
+            The "About Us" page provides insights into who we are, what we do,
+            and why we\u2019re passionate about our work.
+        weight: 10
+      - identifier: speakers
+        pageRef: /speakers
+        params:
+          description: |
+            Meet our distinguished speakers who will be sharing their expertise.
+            Learn more about their backgrounds and what they will discuss.
+        weight: 30
+      - identifier: location
+        pageRef: /location
+        params:
+          description: |
+            Find out where the event will take place.
+            This section provides details on the venue, directions, and nearby accommodations.
+        weight: 40
+      - identifier: code_of_conduct
+        pageRef: /code-of-conduct
+        params:
+          description: |
+            Read about the code of conduct for our event.
+            This section outlines the expectations for participant behavior and event policies.
+        weight: 60
 
-                        #### By Car:
-                        From Downtown: Take Main Street north for 2 miles and turn right on
-                        Elm Street. [Get
-                        directions](https://www.kvv.de/en/plan-trip/timetables.html).
-                    aboutUs: |
-                        ### Mission
-                        We help companies and organizations to digital transform their business, products and processes through consulting,
-                        strategy, design, software development and training using cutting edge technology.
-
-                        ### Established
-                        - **2002** - Founded
-
-                        ### Our Team
-                        - **25+** Employees
-                        - **5** Nationalities
-
-                        ### Additional Info
-                        - We bring together diverse expertise and innovation.
-
-params:
-    # Open Graph / X (Twitter) Cards
-    images:
-        - logos/medicon-512.jpg
-    themes:
+    params:
+      description: |
+        A demo website to showcase the features of the "Event" theme for the
+        static website generator HUGO.
+      themes:
         event:
-            sessionizeId: vg3s32st
-            title: IPAC'27
-            shortTitle: 
-            startDate: 2027-05-25
-            endDate: 2027-05-31
-            address:
-                - Detroit
-                - Michigan
-                - US
-            map:
-                embeddableMapUrl: //umap.openstreetmap.fr/en/map/medialesson-gmbh_1105977?scrollWheelZoom=false
-                viewLargerMapUrl: //umap.openstreetmap.fr/en/map/medialesson-gmbh_1105977
-                # Link to edit the map: https://umap.openstreetmap.fr/en/map/anonymous-edit/1105977:HjtVVnbwCn6Yi3O02DTPnspzuyoHvP_Kn-M9rE53eE8
-            callToAction:
-                eventbrite:
-                    eventId: 976108886957
-            socialLinks:
-                xUrl: https://x.com/medialesson
-                facebookUrl: https://www.facebook.com/medialesson/
-                linkedinUrl: https://de.linkedin.com/company/medialesson-gmbh
-            images:
-                logo: logos/medicon-512.webp
-                titleBackground: images/pexels-caleboquendo-3023317.webp
-                location: images/habermehlstr.webp
-            sponsors:
-                - logo: logos/medialesson-logo.svg
-                  url: https://www.media-lesson.com/
-                  name: 'Medialesson GmbH'
-            partners:
-                - logo: logos/medialesson-logo.svg
-                  url: https://www.media-lesson.com/
-                  name: 'Medialesson GmbH'
-            organizers:
-                - '00000000-0000-0000-0000-000000000000'
-                - '00000000-0000-0000-0000-000000000001'
-                - '00000000-0000-0000-0000-000000000004'
-                - '00000000-0000-0000-0000-000000000002'
-            featuredSessions:
-                - '729572'
-                - '729576'
-                - '729579'
-            colors:
-                primaryLighter: '#5CB1E8'
-                primary: '#0d81be'
-                primaryDarker: '#143e8b'
-                track: '#15B8CA'
+          aboutUs: |
+            ### Mission
+            We help companies and organizations to digital transform their business,
+            products and processes through consulting, strategy, design, software
+            development and training using cutting edge technology.
+
+            ### Established
+            - **2002** - Founded
+
+            ### Our Team
+            - **25+** Employees
+            - **5** Nationalities
+
+            ### Additional Info
+            - We bring together diverse expertise and innovation.
+          description: |
+            This is a demo website to showcase the features of the __Event__ theme
+            for the static website generator [Hugo](https://gohugo.io). You can find
+            the source code of this website on
+            [GitHub](https://github.com/medialesson/hugo-theme-event-demo).
+            The theme\ncan fetch data of any event from [Sessionize](https://sessionize.com)
+            and automatically generates a schedule, a speaker list, and more. It
+            also integrates well with [Eventbrite](https://www.eventbrite.com)
+            to sell tickets.
+          directions: |
+            #### By Public Transportation
+            Take the number 25 bus from downtown.
+            [Click here for the bus schedule](https://www.kvv.de/en/plan-trip/timetables.html).
+
+            #### By Car:
+            From Downtown: Take Main Street north for 2 miles and turn right on
+
+            Elm Street. [Get directions](https://www.kvv.de/en/plan-trip/timetables.html).
+          location: |
+            Detroit, United States
+          slogan: |
+            Not a real conference - this is just a demo!
+params:
+  images:
+  - logos/medicon-512.jpg
+  themes:
+    event:
+      startDate: 2027-05-25
+      title: IPAC'27
+      endDate: 2027-05-31
+      address:
+      - Detroit
+      - Michigan
+      - US
+      callToAction:
+        eventbrite:
+          eventId: 976108886957
+      colors:
+        primary: '#0d81be'
+        primaryDarker: '#143e8b'
+        primaryLighter: '#5CB1E8'
+        track: '#15B8CA'
+      featuredSessions:
+      - '729572'
+      - '729576'
+      - '729579'
+      images:
+        location: images/habermehlstr.webp
+        logo: logos/medicon-512.webp
+        titleBackground: images/pexels-caleboquendo-3023317.webp
+      map:
+        embeddableMapUrl: //umap.openstreetmap.fr/en/map/medialesson-gmbh_1105977?scrollWheelZoom=false
+        viewLargerMapUrl: //umap.openstreetmap.fr/en/map/medialesson-gmbh_1105977
+      organizers:
+      - 00000000-0000-0000-0000-000000000000
+      - 00000000-0000-0000-0000-000000000001
+      - 00000000-0000-0000-0000-000000000004
+      - 00000000-0000-0000-0000-000000000002
+      partners:
+      - logo: logos/medialesson-logo.svg
+        name: Medialesson GmbH
+        url: https://www.media-lesson.com/
+      sessionizeId: vg3s32st
+      shortTitle: null
+      socialLinks:
+        facebookUrl: https://www.facebook.com/medialesson/
+        linkedinUrl: https://de.linkedin.com/company/medialesson-gmbh
+        xUrl: https://x.com/medialesson
+      sponsors:
+      - logo: logos/medialesson-logo.svg
+        name: Medialesson GmbH
+        url: https://www.media-lesson.com/
