@@ -70,7 +70,7 @@ languages:
             themes:
                 event:
                     slogan: Not a real conference - this is just a demo!
-                    location: Pforzheim, Germany
+                    location: Detroit, U.S.A.
                     description: |
                         This is a demo website to showcase the features of the __Event__ theme
                         for the static website generator [Hugo](https://gohugo.io). You can
@@ -110,15 +110,14 @@ params:
     themes:
         event:
             sessionizeId: vg3s32st
-            title: ipac27-test
-            shortTitle:
+            title: IPAC'27
+            shortTitle: 
             startDate: 2027-05-25
             endDate: 2027-05-31
             address:
-                - Medialesson GmbH
-                - Habermehlstraße 15
-                - 75172 Pforzheim
-                - Germany
+                - Detroit
+                - Michigan
+                - U.S.A.
             map:
                 embeddableMapUrl: //umap.openstreetmap.fr/en/map/medialesson-gmbh_1105977?scrollWheelZoom=false
                 viewLargerMapUrl: //umap.openstreetmap.fr/en/map/medialesson-gmbh_1105977
