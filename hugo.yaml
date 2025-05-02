@@ -134,8 +134,8 @@ params:
         logo: logos/medicon-512.webp
         titleBackground: images/pexels-caleboquendo-3023317.webp
       map:
-        embeddableMapUrl: //umap.openstreetmap.fr/en/map/medialesson-gmbh_1105977?scrollWheelZoom=false
-        viewLargerMapUrl: //umap.openstreetmap.fr/en/map/medialesson-gmbh_1105977
+        embeddableMapUrl: //umap.openstreetmap.de/en/map/untitled-map_91751?scrollWheelZoom=false
+        viewLargerMapUrl: //umap.openstreetmap.de/en/map/untitled-map_91751
       organizers:
       - 00000000-0000-0000-0000-000000000000
       - 00000000-0000-0000-0000-000000000001
