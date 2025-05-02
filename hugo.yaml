@@ -132,7 +132,7 @@ params:
       images:
         location: images/habermehlstr.webp
         logo: logos/medicon-512.webp
-        titleBackground: images/pexels-caleboquendo-3023317.webp
+        titleBackground: images/detroit_skyline.png
       map:
         embeddableMapUrl: //umap.openstreetmap.de/en/map/untitled-map_91751?scrollWheelZoom=false
         viewLargerMapUrl: //umap.openstreetmap.de/en/map/untitled-map_91751
