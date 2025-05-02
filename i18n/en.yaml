@@ -2,3 +2,6 @@ menu.imprint: Imprint
 menu.privacy: Privacy Policy
 cta_banner.message: Welcome to 18th International Accelerator Conference
 cta_button.get_ticket: Register Now!
+cta_section.heading: ""
+cta_section.subheading: ""
+cta_section.message: ""
