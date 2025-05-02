@@ -110,9 +110,9 @@ params:
   - logos/medicon-512.jpg
   themes:
     event:
-      startDate: 2027-05-25
+      startDate: 2027-05-23
       title: IPAC'27
-      endDate: 2027-05-31
+      endDate: 2027-05-28
       address:
       - Detroit
       - Michigan
