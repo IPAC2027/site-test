@@ -147,6 +147,9 @@ params:
         linkedinUrl: https://de.linkedin.com/company/medialesson-gmbh
         xUrl: https://x.com/medialesson
       sponsors:
-      - logo: logos/medialesson-logo.svg
-        name: Medialesson GmbH
-        url: https://www.media-lesson.com/
+      - logo: logos/IEEE-NPSS-Logo.webp
+        name: IEEE/NPSS
+        url: https://ieee-npss.org/
+      - logo: logos/APS_logo.svg
+        name: APS
+        url: https://www.aps.org/
