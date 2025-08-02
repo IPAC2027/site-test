@@ -106,17 +106,22 @@ params:
   themes:
     event:
       title: IPAC'27
-      startDate: 2027-05-23
       shortTitle: null
+      startDate: 2027-05-23
       endDate: 2027-05-28
+      location: Detroit, USA
       address:
-      - Detroit
-      - Michigan
-      - US
+      - Huntington Place
+      - 1 Washington Boulevard
+      - Detroit, MI 48226
+      - USA
       sessionizeId: vg3s32st
       callToAction:
         eventbrite:
-          eventId: 976108886957
+          eventId:
+        other:
+          url:
+        enableBanner: true
       colors:
         primary: '#0d81be'
         primaryDarker: '#143e8b'
@@ -153,4 +158,3 @@ params:
         # facebookUrl: https://www.facebook.com/medialesson/
         # linkedinUrl: https://de.linkedin.com/company/medialesson-gmbh
         xUrl: https://x.com/IPAC27
-
