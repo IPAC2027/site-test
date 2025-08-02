@@ -1,7 +1,7 @@
 menu.imprint: Imprint
 menu.privacy: Privacy Policy
-cta_banner.message: ""
+cta_banner.message: Submit Abstracts / Get Registered
 cta_button.get_ticket: Register Now!
-cta_section.heading: ""
-cta_section.subheading: ""
-cta_section.message: ""
+cta_section.heading: cta heading
+cta_section.subheading: cta subheading
+cta_section.message: cta message
