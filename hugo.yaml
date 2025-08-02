@@ -130,8 +130,8 @@ params:
       - '729576'
       - '729579'
       images:
-        location: images/habermehlstr.webp
-        logo: logos/medicon-512.webp
+        location: images/Huntington-Place-61b4124412.webp
+        logo: logos/ipac27-logo.png
         titleBackground: images/detroit_skyline.png
       map:
         embeddableMapUrl: //umap.openstreetmap.de/en/map/untitled-map_91751?scrollWheelZoom=false
