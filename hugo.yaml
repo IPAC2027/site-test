@@ -93,14 +93,8 @@ languages:
             also integrates well with [Eventbrite](https://www.eventbrite.com)
             to sell tickets.
           directions: |
-            #### By Public Transportation
-            Take the number 25 bus from downtown.
-            [Click here for the bus schedule](https://www.kvv.de/en/plan-trip/timetables.html).
-
-            #### By Car:
-            From Downtown: Take Main Street north for 2 miles and turn right on
-
-            Elm Street. [Get directions](https://www.kvv.de/en/plan-trip/timetables.html).
+            #### Getting Here
+            [Click for details | https://www.huntingtonplacedetroit.com/plan-your-visit-1/getting-here]
           location: |
             Detroit, United States
           slogan: |
