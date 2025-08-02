@@ -118,9 +118,9 @@ params:
       sessionizeId: vg3s32st
       callToAction:
         eventbrite:
-          eventId:
+          eventId: null
         other:
-          url:
+          url: https://indico.jacow.org/event/82/ 
         enableBanner: true
       colors:
         primary: '#0d81be'
