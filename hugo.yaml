@@ -140,12 +140,6 @@ params:
       - logo: logos/frib-logo.png
         name: Facility for Rare Isotope Beams
         url: https://frib.msu.edu/
-      sessionizeId: vg3s32st
-      shortTitle: null
-      socialLinks:
-        facebookUrl: https://www.facebook.com/medialesson/
-        linkedinUrl: https://de.linkedin.com/company/medialesson-gmbh
-        xUrl: https://x.com/medialesson
       sponsors:
       - logo: logos/IEEE-NPSS-Logo.webp
         name: IEEE/NPSS
@@ -153,3 +147,10 @@ params:
       - logo: logos/APS_logo.svg
         name: APS
         url: https://www.aps.org/
+      sessionizeId: vg3s32st
+      shortTitle: ipac27
+      socialLinks:
+        # facebookUrl: https://www.facebook.com/medialesson/
+        # linkedinUrl: https://de.linkedin.com/company/medialesson-gmbh
+        xUrl: https://x.com/IPAC27
+
