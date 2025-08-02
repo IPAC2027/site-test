@@ -105,13 +105,15 @@ params:
   - logos/ipac27-logo.png
   themes:
     event:
-      startDate: 2027-05-23
       title: IPAC'27
+      startDate: 2027-05-23
+      shortTitle: null
       endDate: 2027-05-28
       address:
       - Detroit
       - Michigan
       - US
+      sessionizeId: vg3s32st
       callToAction:
         eventbrite:
           eventId: 976108886957
@@ -147,8 +149,6 @@ params:
       - logo: logos/APS_logo.svg
         name: APS
         url: https://www.aps.org/
-      sessionizeId: vg3s32st
-      shortTitle: ipac27
       socialLinks:
         # facebookUrl: https://www.facebook.com/medialesson/
         # linkedinUrl: https://de.linkedin.com/company/medialesson-gmbh
