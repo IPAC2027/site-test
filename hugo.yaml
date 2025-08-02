@@ -104,7 +104,8 @@ languages:
           location: |
             Detroit, United States
           slogan: |
-            Not a real conference - this is just a demo!
+            Welcome to 18th International Particle Accelerator Conference
+
 params:
   images:
   - logos/ipac27-logo.png
