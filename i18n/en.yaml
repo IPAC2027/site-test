@@ -1,8 +1,8 @@
 menu.imprint: Imprint
 menu.privacy: Privacy Policy
 menu.about: About
-cta_banner.message:
+cta_banner.message: ''
 cta_button.get_ticket: Register Now!
-cta_section.heading:
-cta_section.subheading:
-cta_section.message:
+cta_section.heading: ''
+cta_section.subheading: ''
+cta_section.message: ''
