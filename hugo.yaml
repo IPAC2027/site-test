@@ -107,7 +107,7 @@ languages:
             Not a real conference - this is just a demo!
 params:
   images:
-  - logos/medicon-512.jpg
+  - logos/ipac27-logo.png
   themes:
     event:
       startDate: 2027-05-23
