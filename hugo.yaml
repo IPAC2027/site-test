@@ -137,9 +137,9 @@ params:
       - 00000000-0000-0000-0000-000000000004
       - 00000000-0000-0000-0000-000000000002
       partners:
-      - logo: logos/ipac27-logo.png
-        name: Medialesson GmbH
-        url: https://www.media-lesson.com/
+      - logo: logos/frib-logo.png
+        name: Facility for Rare Isotope Beams
+        url: https://frib.msu.edu/
       sessionizeId: vg3s32st
       shortTitle: null
       socialLinks:
