@@ -1,6 +1,6 @@
 .made-by-frib {
     font-weight: 400;
-    font-size: 0.75rem;
+    font-size: 1rem;
     display: flex;
     align-items: center;
     gap: 0.4375rem;
@@ -8,6 +8,6 @@
 }
 
 .made-by-frib__logo-name {
-    height: 2.125rem;
+    height: 3rem;
     width: auto;
 }
