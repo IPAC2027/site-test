@@ -1,0 +1,13 @@
+.made-by-frib {
+    font-weight: 400;
+    font-size: 0.75rem;
+    display: flex;
+    align-items: center;
+    gap: 0.4375rem;
+    text-decoration: none;
+}
+
+.made-by-frib__logo-name {
+    height: 2.125rem;
+    width: auto;
+}
