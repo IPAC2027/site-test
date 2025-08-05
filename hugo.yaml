@@ -69,7 +69,6 @@ languages:
       themes:
         event:
           aboutUs: |
-
             ### FRIB 
             Facility for Rare Isotope Beams (FRIB) is a user facility operated by Michigan State
             University for the U.S. Department of Energy Office of
@@ -85,7 +84,6 @@ languages:
             physicists, engineers, and industry professionals from around the world to share groundbreaking
             research, innovative technologies, and collaborative opportunities that advance the
             field of particle acceleration.
-
           description: |
             The International Particle Accelerator Conference (IPAC) is the premier global
             forum for presenting and discussing the latest developments in particle accelerator
@@ -96,8 +94,14 @@ languages:
             technologies, and collaborative opportunities that advance the field of particle
             acceleration.
           directions: |
-            #### Getting Here
-            [Click for details](https://www.huntingtonplacedetroit.com/plan-your-visit-1/getting-here)
+            #### How to Get to Detroit by Air✈️
+            1. **Fly to Detroit Metropolitan Airport (DTW)** from your nearest major international airport.
+            2. **Airlines** like Delta, Air France, and Lufthansa offer direct or connecting flights.
+            3. After arrival, reach downtown via:
+               - Uber/Lyft (20–30 min)
+               - Taxi
+               - Rental car
+            4. [Click for details](https://www.huntingtonplacedetroit.com/plan-your-visit-1/getting-here)
           location: |
             Detroit, United States
           slogan: |
