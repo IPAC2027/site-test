@@ -69,29 +69,32 @@ languages:
       themes:
         event:
           aboutUs: |
-            ### Mission
-            We help companies and organizations to digital transform their business,
-            products and processes through consulting, strategy, design, software
-            development and training using cutting edge technology.
 
-            ### Established
-            - **2002** - Founded
+            ### FRIB 
+            Facility for Rare Isotope Beams (FRIB) is a user facility operated by Michigan State
+            University for the U.S. Department of Energy Office of
+            Science (DOE-SC), with financial support from and furthering the mission of the
+            DOE-SC Office of Nuclear Physics.
 
-            ### Our Team
-            - **25+** Employees
-            - **5** Nationalities
+            ### IPAC and IPAC'27
+            The International Particle Accelerator Conference (IPAC) is the premier global forum
+            for presenting and discussing the latest developments in particle accelerator
+            science and technology.
 
-            ### Additional Info
-            - We bring together diverse expertise and innovation.
+            IPAC'27 is the 18th conference hosted by FRIB, which will bring together accelerator
+            physicists, engineers, and industry professionals from around the world to share groundbreaking
+            research, innovative technologies, and collaborative opportunities that advance the
+            field of particle acceleration.
+
           description: |
-            This is a demo website to showcase the features of the __Event__ theme
-            for the static website generator [Hugo](https://gohugo.io). You can find
-            the source code of this website on
-            [GitHub](https://github.com/medialesson/hugo-theme-event-demo).
-            The theme\ncan fetch data of any event from [Sessionize](https://sessionize.com)
-            and automatically generates a schedule, a speaker list, and more. It
-            also integrates well with [Eventbrite](https://www.eventbrite.com)
-            to sell tickets.
+            The International Particle Accelerator Conference (IPAC) is the premier global
+            forum for presenting and discussing the latest developments in particle accelerator
+            science and technology.
+
+            IPAC27 will bring together accelerator physicists, engineers, and industry
+            professionals from around the world to share groundbreaking research, innovative
+            technologies, and collaborative opportunities that advance the field of particle
+            acceleration.
           directions: |
             #### Getting Here
             [Click for details](https://www.huntingtonplacedetroit.com/plan-your-visit-1/getting-here)
