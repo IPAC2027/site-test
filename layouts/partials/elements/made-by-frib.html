@@ -1,0 +1,14 @@
+{{- $input := . }}
+
+
+<a
+    class="made-by-medialesson {{ $input.linkClass }}"
+    target="_blank"
+    rel="noopener noreferrer external"
+    href="https://frib.msu.edu">
+    
+    Hosted by
+    <div class="made-by-medialesson__logo-name">
+        {{- partial "graphics/frib-logo-name.html" }}
+    </div>
+</a>
