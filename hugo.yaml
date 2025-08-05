@@ -120,8 +120,8 @@ params:
         eventbrite:
           eventId: null
         other:
-          url: https://indico.jacow.org/event/82/ 
-        enableBanner: true
+          url: https://indico.jacow.org/event/82/
+        enableBanner: false
       colors:
         primary: '#0d81be'
         primaryDarker: '#143e8b'
